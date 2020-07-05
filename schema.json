@@ -1,0 +1,20 @@
+{
+  "Columns": [
+    {
+      "Name": "City",
+      "Length": 5
+    },
+    {
+      "Name": "Street",
+      "Length": 4
+    },
+    {
+      "Name": "Number",
+      "Length": 4
+    },
+    {
+      "Name": "Main",
+      "Length": 1
+    }
+  ]
+}
